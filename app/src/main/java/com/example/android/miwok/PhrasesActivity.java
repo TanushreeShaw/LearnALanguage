@@ -1,18 +1,3 @@
-/*
- * Copyright (C) 2016 The Android Open Source Project
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *      http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
 package com.example.android.miwok;
 
 import android.media.MediaPlayer;
@@ -92,6 +77,7 @@ public class PhrasesActivity extends AppCompatActivity {
     /**
      * Clean up the media player by releasing its resources.
      */
+    
     private void releaseMediaPlayer() {
         // If the media player is not null, then it may be currently playing a sound.
         if (mediaPlayer != null) {
