@@ -1,3 +1,3 @@
 <h1><b>Learn Miwok</b></h1>
 
-An App that helps you learn about Miwok Language. </br> Made using Java.
+An App that helps you learn about Miwok Language. </br> Made using Java <3.
